@@ -1,0 +1,40 @@
+
+
+
+.logo {
+
+
+}
+
+div #copy-block{
+	margin-top: 275px;
+	margin-left:80px;
+	padding:18px;
+
+}
+
+body {
+	background:url("images/stripes.png"), url("images/background.jpg");
+	background-repeat: repeat-x, no-repeat;
+	background-attachment: fixed;
+	background-color: #535868;
+	background-size: 500px 10px, cover;
+	Color: white;
+	width:500px;
+	font-family: Helvetica;
+	font-size: 20px;
+	font-weight: lighter;
+	padding:270px 100px;
+	text-align:left;
+	line-height:20px;
+	
+	}
+
+hr {
+	width:50px;
+	height:4px;
+	background-color: #c1686d;
+	color:#c1686d;
+	margin-top:20px;
+	margin-bottom:20px;
+}
